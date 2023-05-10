@@ -7,11 +7,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{794C8D2B-C34
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadron.EntityFramework", "src\Hadron.EntityFramework\Hadron.EntityFramework.csproj", "{5519BF67-C87B-4039-806A-15190EAFDE28}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadron", "src\Hadron\Hadron.csproj", "{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadron.Domain", "src\Hadron.Domain\Hadron.Domain.csproj", "{BD7F0675-BF83-4F8C-B55E-FA28882F46D8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadron.Generator", "src\Hadron.Generator\Hadron.Generator.csproj", "{FC6FCF85-C852-4496-92AC-10214FC74783}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_root", "_root", "{DFB86F64-163E-4F66-87AF-A87201296DCD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadron.Core", "src\Hadron.Core\Hadron.Core.csproj", "{8B296571-0718-4E30-8BD7-1896EF377EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +30,6 @@ Global
 		{5519BF67-C87B-4039-806A-15190EAFDE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5519BF67-C87B-4039-806A-15190EAFDE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5519BF67-C87B-4039-806A-15190EAFDE28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD7F0675-BF83-4F8C-B55E-FA28882F46D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BD7F0675-BF83-4F8C-B55E-FA28882F46D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD7F0675-BF83-4F8C-B55E-FA28882F46D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,15 +38,19 @@ Global
 		{FC6FCF85-C852-4496-92AC-10214FC74783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC6FCF85-C852-4496-92AC-10214FC74783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC6FCF85-C852-4496-92AC-10214FC74783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B296571-0718-4E30-8BD7-1896EF377EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B296571-0718-4E30-8BD7-1896EF377EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B296571-0718-4E30-8BD7-1896EF377EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B296571-0718-4E30-8BD7-1896EF377EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5519BF67-C87B-4039-806A-15190EAFDE28} = {794C8D2B-C344-41B3-9B80-94BB3966E3DD}
-		{35EB0F06-4F87-478D-A65E-DC57BB4A9C2E} = {794C8D2B-C344-41B3-9B80-94BB3966E3DD}
 		{BD7F0675-BF83-4F8C-B55E-FA28882F46D8} = {794C8D2B-C344-41B3-9B80-94BB3966E3DD}
 		{FC6FCF85-C852-4496-92AC-10214FC74783} = {794C8D2B-C344-41B3-9B80-94BB3966E3DD}
+		{8B296571-0718-4E30-8BD7-1896EF377EBA} = {794C8D2B-C344-41B3-9B80-94BB3966E3DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F5E6E83-28F9-4F69-A554-439357157F8F}

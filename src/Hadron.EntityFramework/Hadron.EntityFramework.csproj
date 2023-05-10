@@ -2,7 +2,6 @@
 
     <PropertyGroup>
 
-        <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
@@ -17,7 +16,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Hadron.Domain\Hadron.Domain.csproj" />
-      <ProjectReference Include="..\Hadron\Hadron.csproj" />
+        <ProjectReference Include="..\Hadron.Core\Hadron.Core.csproj" />
     </ItemGroup>
 
 </Project>

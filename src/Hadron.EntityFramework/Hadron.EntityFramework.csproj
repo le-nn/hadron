@@ -15,7 +15,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Hadron.Domain\Hadron.Domain.csproj" />
         <ProjectReference Include="..\Hadron.Core\Hadron.Core.csproj" />
     </ItemGroup>
 

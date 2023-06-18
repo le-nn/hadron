@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhjLQFLZnV34Xg3Hfaez0gTaXbB4sNk6SWfccstu1Tx1G+wrNi6UPZx6iv+XfXYj57tYZj+Rv7ZS7fuahJLlKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renpe\\Devs\\rainy-launcher\\external\\luminus\\dependency\\hadron\\src\\Hadron.Core\\Hadron.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renpe\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\renpe\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\renpe\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

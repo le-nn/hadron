@@ -1,0 +1,13 @@
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\bin\Debug\net7.0\Hadron.Core.deps.json
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\bin\Debug\net7.0\Hadron.Core.dll
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\bin\Debug\net7.0\Hadron.Core.pdb
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.csproj.AssemblyReference.cache
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.AssemblyInfoInputs.cache
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.AssemblyInfo.cs
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.csproj.CoreCompileInputs.cache
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.sourcelink.json
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.dll
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\refint\Hadron.Core.dll
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\Hadron.Core.pdb
+C:\Users\renpe\Devs\rainy-launcher\external\luminus\dependency\hadron\src\Hadron.Core\obj\Debug\net7.0\ref\Hadron.Core.dll
